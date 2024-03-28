@@ -1,1 +1,1 @@
-# CudaExercise
+# Cuda
